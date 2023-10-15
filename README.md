@@ -20,10 +20,10 @@ Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mant
 
 * **CRUD:**;
 
-  _Criação de Clientes_
-  _Listagem dos Clientes_
-  _Atualização dos dados do cliente_
-  _Apagar dados de certo cliente_
+  1. _Criação de Clientes_
+  2. _Listagem dos Clientes_
+  3. _Atualização dos dados do cliente_
+  4. _Apagar dados de certo cliente_
 
 * **Usar o Banco de Dados MYSQL ou MariaDB:**;
 
