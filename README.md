@@ -1,42 +1,42 @@
 <img width="179" alt="screen logo" src="https://www.lucansolucoes.co.ao/images/llogo.webp">
 
-[GRUPO GCLUCAN]([https://www.lucansolucoes.co.ao/]) é uma Empresa de Direito Angolano, integralmente detida por cidadãos Angolanos, que centra a sua estratégia nas Tecnologias de Informação e Desenho de Processos de Negócios alinhado as tecnologias, de forma a dotar o mercado Angolano e Africano de soluções que vão desde os seguintes sectores: Governo, Banca, Finanças, Seguros, Sector Petrolífero, Telecomunicações, Transportes, Energia, Segurança, etc.
+[GCLUCAN]([https://www.lucansolucoes.co.ao/]) A GC LUCAN é uma empresa Angolana vocacionada ao Desenvolvimento e Consultoria de Soluções em Tecnologias e Sistema de Informação.
 
 ## Sobre o desafio
 
-Este é um teste bastante simples, no qual você deve ser capaz de escrever um aplicativo React ou Flutter, usando as telas fornecidas como referência. Você precisará fazer solicitações a uma API para obter algum conteúdo JSON, filtrar os dados e imprimi-los na visualização.
+A GCLUCAN tem problemas em gerir os seus clientes então precisa-se que os programadores desenvolvam uma solução que permita:
 
-Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mantê-lo simples. Nós o encorajamos a usar suas ferramentas e pacotes favoritos para construir um aplicativo React ou Flutter sólido.
-
-### O aplicativo será um **todo list** com cinco paginas:
-
-* **Marketplace page:** a pagina que irá introduzir a aplicação;
-
-  _Pense nos dizeres da aplicação que em seguida te levarão até a aplicação principal_
-
-* **Sign In page:** pagina do login;
-
-  _O login será feito tanto com o google, facebook ou suas credências da API_
-
-* **Dashboard page:** pagina inicial da aplicação;
-
-  _Pagina onde conterá todas as tasks já registrados na aplicação_
-
-* **Add Task page:** pagina para adicionar tarefa;
-
-  _Adicionaremos e faremos edição das mesmas a partir desta página_
-
-* **Profile page:** pagina do perfil;
-
-  _Após logar, todas as tuas informações serão apresentadas no seu perfil_
+1. Criar Um Cliente
+2. Exibir todos os clientes
+3. Atualizar dados de um cliente
+4. Excluir um certo cliente
 
 
-O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e React ou Flutter API e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas e um feed de API. Também avaliaremos a saída HTML, CSS e JS.
+Este é um teste bastante simples, no qual você deve ser capaz de escrever um aplicativo C# Web Asp .Net ou C# Blazor, usando as telas fornecidas como referência.
+
+Você pode usar qualquer padrão / abordagem de sua preferência, mas tente mantê-lo simples. Nós o encorajamos a usar suas ferramentas e pacotes favoritos para construir o aplicativo.
+
+### O aplicativo será **Gestão de Clientes** Web Fullstack:
+
+* **CRUD:**;
+
+  _Criação de Clientes_
+  _Listagem dos Clientes_
+  _Atualização dos dados do cliente_
+  _Apagar dados de certo cliente_
+
+* **Usar o Banco de Dados MYSQL ou MariaDB:**;
+
+
+O objetivo deste desafio é avaliar suas habilidades de HTML, CSS, Javascript e C# Asp .Net ou C# Blazor e abordagem geral ao compor um aplicativo da web simples com um conjunto de telas.
 
 
 **ATENÇÃO**
 
+Todas as operações de CRUD devem ser realizadas na mesma página usando a Modal que está no Design.
+
 Depois de implementar a solução, envie um pull request para este repositório pela interface do Github.
+
 
 O nome da branch deve seguir o seguinte padrão: **nome-sobrenome**.
 
@@ -59,26 +59,21 @@ Obs.: Não tente fazer o PUSH diretamente para ESTE repositório!
 * Sinta-se à vontade para trabalhar e aprimorar os designs disponíveis. Pense neles como diretrizes.
 * Prefira usar metodologia css, como BEM, ITCSS, etc;
 * Fazer perguntas é bom. Não vamos penalizá-lo por fazer perguntas;
-* O servidor de API às vezes é lento, portanto, pense em carregar e em estados vazios em todo o seu aplicativo;
-* Estamos procurando por sinais de que você entende conceitos como eventos, promessas e reatividade, e como esses conceitos são implementados em Javascript;
+* Estamos procurando por sinais de que você entende conceitos como HTML 5, CSS3, JS ES6+ e C# Web;
 * O histórico do git será avaliado;
 * Seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, elegância (entre outros fatores);
 
 ### Informação necessária
 
-#### API:
-
-Api que será utilizada está no nosso servidor, é essa: [SNIR API](https://tlzora.deta.dev/).
-
 #### Telas / ativos / guia de estilo:
 
 Dê uma olhada no `/layout`, lá você encontrará tudo o que precisa.
 
-[Protótipo da aplicação e guia de estilo](https://www.figma.com/file/TVT3dZ8snysCn9XgLmtjJX/SnirTask?node-id=0%3A1)  
+[Protótipo da aplicação e guia de estilo [https://www.figma.com/file/OvUM5klfPyvzLlofQi4SSY?type=design])  
 
 ### Contato ou duvidas
 
-Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: desenvolvimento@snir.co.ao    
+Faça o issue das tuas dúvidas nesse repositório [issues]() ou envie uma notificação para o email: sebastiao.sousa@lucansolucoes.co.ao    
 
 
 ## Experiência com o projeto 
